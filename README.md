@@ -7,7 +7,7 @@ Included openFrameworks project using openCV:
 
 Disparity pixels map gets drawn on top, and is saved to disk periodically.
 
-Since this version of openFrameworks doesn't support float images, disparity is in 8bit, centred on value 128:
-* R: 128 + X pixel offset
-* G: 128 + Y pixel offset
+Since this version of openFrameworks doesn't support float images, displacement is in 8bit, centred on value 128:
+* R: 128 + X pixel displacement
+* G: 128 + Y pixel displacement
 * B: 'weight' - estimate of how good the track is
