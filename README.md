@@ -1,6 +1,8 @@
 # disparity
 Rough tests for finding disparity maps between multiple (e.g. stereo) images
 
+https://vimeo.com/168115690
+
 Included openFrameworks project using openCV:
 * Click on left image to find corresponding point in right image
 * Drag a box, to track corresponding points for all pixels in the box
